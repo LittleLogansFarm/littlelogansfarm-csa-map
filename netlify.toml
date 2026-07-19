@@ -1,0 +1,14 @@
+[build]
+  # This is a static HTML site with no build tooling, so there is no
+  # compile step. An empty command overrides the incorrect "npm run build"
+  # value set in the Netlify UI, which was failing because no package.json
+  # exists in this repo.
+  command = ""
+  # Serve the repository root, overriding the UI "dist" publish directory.
+  publish = "."
+
+# Serve the map at the site root while keeping the original file name.
+[[redirects]]
+  from = "/"
+  to = "/csa_delivery_zone_map.html"
+  status = 200
