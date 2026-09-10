@@ -1,0 +1,6 @@
+name,address,day,start_time,end_time,notes,latitude,longitude
+EXAMPLE — New Paltz drop site,REPLACE — street address,Tuesday,4:00 PM,7:00 PM,Delete this row and add your own,41.7476,-74.0870
+EXAMPLE — Kingston drop site,REPLACE — street address,Wednesday,3:00 PM,6:00 PM,Delete this row and add your own,41.9270,-73.9974
+EXAMPLE — Rosendale drop site,REPLACE — street address,Thursday,4:30 PM,6:30 PM,Delete this row and add your own,41.8434,-74.0787
+EXAMPLE — Highland drop site,REPLACE — street address,Friday,3:00 PM,6:00 PM,Delete this row and add your own,41.7195,-73.9629
+EXAMPLE — Farm pickup,REPLACE — street address,Saturday,9:00 AM,1:00 PM,Delete this row and add your own,41.7476,-74.0848

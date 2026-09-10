@@ -1,0 +1,13 @@
+{
+  "farm_name": "Little Logan's Farm",
+  "map_title": "CSA Delivery Zone & Pickup Sites",
+  "farm_address": "REPLACE — your farm's street address",
+  "farm_latitude": 41.7476,
+  "farm_longitude": -74.0848,
+  "delivery_radius_miles": 20,
+  "map_zoom": 10,
+  "output_file": "csa_delivery_zone_map.html",
+  "zone_color": "green",
+  "zone_label": "CSA Delivery Zone (~20 miles)",
+  "contact_line": "Questions about delivery? Get in touch."
+}
